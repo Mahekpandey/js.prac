@@ -1,2 +1,2 @@
 # js.prac
-complete js begginer to advance concepts
+js concepts with 50 proj
